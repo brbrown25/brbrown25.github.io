@@ -1,6 +1,7 @@
 ---
 layout: post
 title: How to use the SendGrid API inside of scala
+permalink: /sendgrid-scala
 ---
 
 This tutorial will show you how to use the [SendGrid Java Library](https://github.com/sendgrid/sendgrid-java "sendgrid-java library repo") for making API calls from scala.  By the end of this tutorial you will be able to

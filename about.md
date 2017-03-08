@@ -5,7 +5,7 @@ permalink: /about/
 published: true
 ---
 
-Some information about you!
+I started playing with html back when notepad was the jam and started programming back in college with c++. I've been a full time software developer for the past 5 years and absolutly love working in agile teams.  This blog will contain useful notes and tutorials to serve as a reference for me and others.
 
 ### More Information
 
