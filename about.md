@@ -9,7 +9,7 @@ I started playing with html back when notepad was the jam and started programmin
 
 ### More Information
 
-I'm a developer based in Charleston, SC.  I love everything Scala and Play! and enjoy learning new technologies.  Sound editing is also a passion and fun project I do on the side.
+I'm a developer based in South Carolina.  I love everything Scala and Play! and enjoy learning new technologies.  Sound editing is also a passion and fun project I do on the side.
 
 ### Contact me
 
